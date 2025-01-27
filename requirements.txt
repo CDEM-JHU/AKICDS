@@ -1,0 +1,15 @@
+numpy
+pandas==1.5.3
+scipy
+tqdm
+matplotlib
+scikit-image
+statsmodels
+openpyxl
+shap==0.45.1
+seaborn
+pymssql
+sqlalchemy
+jupyter
+scikit-learn==1.4.0
+xgboost==2.0.1
